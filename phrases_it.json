@@ -1,2402 +1,722 @@
 [
   {
     "id": "it_e_001",
-    "text": "GIORNO SERENO NUMERO 1",
-    "hint": "Espressione semplice e positiva",
+    "text": "CASA AL MARE",
+    "hint": "Vacanza estiva",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_e_002",
-    "text": "GIORNO SERENO NUMERO 2",
-    "hint": "Espressione semplice e positiva",
+    "text": "TEMPO SERENO",
+    "hint": "Bel clima",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_003",
-    "text": "GIORNO SERENO NUMERO 3",
-    "hint": "Espressione semplice e positiva",
+    "text": "BUON APPETITO",
+    "hint": "Si dice prima di mangiare",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_e_004",
-    "text": "GIORNO SERENO NUMERO 4",
-    "hint": "Espressione semplice e positiva",
+    "text": "LUNA PIENA",
+    "hint": "Fase lunare",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_005",
-    "text": "GIORNO SERENO NUMERO 5",
-    "hint": "Espressione semplice e positiva",
+    "text": "MARE CALMO",
+    "hint": "Acqua tranquilla",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_006",
-    "text": "GIORNO SERENO NUMERO 6",
-    "hint": "Espressione semplice e positiva",
+    "text": "PORTA APERTA",
+    "hint": "Accesso libero",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "object"
   },
   {
     "id": "it_e_007",
-    "text": "GIORNO SERENO NUMERO 7",
-    "hint": "Espressione semplice e positiva",
+    "text": "SOLE NASCENTE",
+    "hint": "Momento dell alba",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_008",
-    "text": "GIORNO SERENO NUMERO 8",
-    "hint": "Espressione semplice e positiva",
+    "text": "VITA NUOVA",
+    "hint": "Nuovo inizio",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "abstract"
   },
   {
     "id": "it_e_009",
-    "text": "GIORNO SERENO NUMERO 9",
-    "hint": "Espressione semplice e positiva",
+    "text": "GATTO NERO",
+    "hint": "Animale domestico",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "animal"
   },
   {
     "id": "it_e_010",
-    "text": "GIORNO SERENO NUMERO 10",
-    "hint": "Espressione semplice e positiva",
+    "text": "BUON ANNO",
+    "hint": "Augurio di gennaio",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "event"
   },
   {
     "id": "it_e_011",
-    "text": "GIORNO SERENO NUMERO 11",
-    "hint": "Espressione semplice e positiva",
+    "text": "ARIA FRESCA",
+    "hint": "Clima piacevole",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_012",
-    "text": "GIORNO SERENO NUMERO 12",
-    "hint": "Espressione semplice e positiva",
+    "text": "LIBRO APERTO",
+    "hint": "Oggetto da leggere",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "object"
   },
   {
     "id": "it_e_013",
-    "text": "GIORNO SERENO NUMERO 13",
-    "hint": "Espressione semplice e positiva",
+    "text": "STRADA LUNGA",
+    "hint": "Percorso esteso",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_e_014",
-    "text": "GIORNO SERENO NUMERO 14",
-    "hint": "Espressione semplice e positiva",
+    "text": "CUORE CONTENTO",
+    "hint": "Emozione positiva",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "emotion"
   },
   {
     "id": "it_e_015",
-    "text": "GIORNO SERENO NUMERO 15",
-    "hint": "Espressione semplice e positiva",
+    "text": "FIUME LENTO",
+    "hint": "Corso dacqua",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_016",
-    "text": "GIORNO SERENO NUMERO 16",
-    "hint": "Espressione semplice e positiva",
+    "text": "NEVE BIANCA",
+    "hint": "Precipitazione invernale",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_017",
-    "text": "GIORNO SERENO NUMERO 17",
-    "hint": "Espressione semplice e positiva",
+    "text": "MANO AMICA",
+    "hint": "Aiuto sincero",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "abstract"
   },
   {
     "id": "it_e_018",
-    "text": "GIORNO SERENO NUMERO 18",
-    "hint": "Espressione semplice e positiva",
+    "text": "SOGNI DORO",
+    "hint": "Augurio notturno",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_e_019",
-    "text": "GIORNO SERENO NUMERO 19",
-    "hint": "Espressione semplice e positiva",
+    "text": "CAMPO VERDE",
+    "hint": "Prato",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_020",
-    "text": "GIORNO SERENO NUMERO 20",
-    "hint": "Espressione semplice e positiva",
+    "text": "FESTA GRANDE",
+    "hint": "Evento importante",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "event"
   },
   {
     "id": "it_e_021",
-    "text": "GIORNO SERENO NUMERO 21",
-    "hint": "Espressione semplice e positiva",
+    "text": "TEMPO LIBERO",
+    "hint": "Momento senza lavoro",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_e_022",
-    "text": "GIORNO SERENO NUMERO 22",
-    "hint": "Espressione semplice e positiva",
+    "text": "SALA PIENA",
+    "hint": "Ambiente affollato",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_e_023",
-    "text": "GIORNO SERENO NUMERO 23",
-    "hint": "Espressione semplice e positiva",
+    "text": "CIELO AZZURRO",
+    "hint": "Giornata limpida",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "nature"
   },
   {
     "id": "it_e_024",
-    "text": "GIORNO SERENO NUMERO 24",
-    "hint": "Espressione semplice e positiva",
+    "text": "LUCE ACCESA",
+    "hint": "Illuminazione",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "object"
   },
   {
     "id": "it_e_025",
-    "text": "GIORNO SERENO NUMERO 25",
-    "hint": "Espressione semplice e positiva",
+    "text": "PORTA CHIUSA",
+    "hint": "Accesso negato",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "object"
   },
   {
     "id": "it_e_026",
-    "text": "GIORNO SERENO NUMERO 26",
-    "hint": "Espressione semplice e positiva",
+    "text": "VINO ROSSO",
+    "hint": "Bevanda italiana",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "food"
   },
   {
     "id": "it_e_027",
-    "text": "GIORNO SERENO NUMERO 27",
-    "hint": "Espressione semplice e positiva",
+    "text": "PANE CALDO",
+    "hint": "Appena sfornato",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "food"
   },
   {
     "id": "it_e_028",
-    "text": "GIORNO SERENO NUMERO 28",
-    "hint": "Espressione semplice e positiva",
+    "text": "GIORNO LUNGO",
+    "hint": "Durata estesa",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "time"
   },
   {
     "id": "it_e_029",
-    "text": "GIORNO SERENO NUMERO 29",
-    "hint": "Espressione semplice e positiva",
+    "text": "OCCHI AZZURRI",
+    "hint": "Colore particolare",
     "language": "it",
     "difficulty": "easy",
-    "category": "common"
+    "category": "people"
   },
   {
     "id": "it_e_030",
-    "text": "GIORNO SERENO NUMERO 30",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_031",
-    "text": "GIORNO SERENO NUMERO 31",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_032",
-    "text": "GIORNO SERENO NUMERO 32",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_033",
-    "text": "GIORNO SERENO NUMERO 33",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_034",
-    "text": "GIORNO SERENO NUMERO 34",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_035",
-    "text": "GIORNO SERENO NUMERO 35",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_036",
-    "text": "GIORNO SERENO NUMERO 36",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_037",
-    "text": "GIORNO SERENO NUMERO 37",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_038",
-    "text": "GIORNO SERENO NUMERO 38",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_039",
-    "text": "GIORNO SERENO NUMERO 39",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_040",
-    "text": "GIORNO SERENO NUMERO 40",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_041",
-    "text": "GIORNO SERENO NUMERO 41",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_042",
-    "text": "GIORNO SERENO NUMERO 42",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_043",
-    "text": "GIORNO SERENO NUMERO 43",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_044",
-    "text": "GIORNO SERENO NUMERO 44",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_045",
-    "text": "GIORNO SERENO NUMERO 45",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_046",
-    "text": "GIORNO SERENO NUMERO 46",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_047",
-    "text": "GIORNO SERENO NUMERO 47",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_048",
-    "text": "GIORNO SERENO NUMERO 48",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_049",
-    "text": "GIORNO SERENO NUMERO 49",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_050",
-    "text": "GIORNO SERENO NUMERO 50",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_051",
-    "text": "GIORNO SERENO NUMERO 51",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_052",
-    "text": "GIORNO SERENO NUMERO 52",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_053",
-    "text": "GIORNO SERENO NUMERO 53",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_054",
-    "text": "GIORNO SERENO NUMERO 54",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_055",
-    "text": "GIORNO SERENO NUMERO 55",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_056",
-    "text": "GIORNO SERENO NUMERO 56",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_057",
-    "text": "GIORNO SERENO NUMERO 57",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_058",
-    "text": "GIORNO SERENO NUMERO 58",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_059",
-    "text": "GIORNO SERENO NUMERO 59",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_060",
-    "text": "GIORNO SERENO NUMERO 60",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_061",
-    "text": "GIORNO SERENO NUMERO 61",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_062",
-    "text": "GIORNO SERENO NUMERO 62",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_063",
-    "text": "GIORNO SERENO NUMERO 63",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_064",
-    "text": "GIORNO SERENO NUMERO 64",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_065",
-    "text": "GIORNO SERENO NUMERO 65",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_066",
-    "text": "GIORNO SERENO NUMERO 66",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_067",
-    "text": "GIORNO SERENO NUMERO 67",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_068",
-    "text": "GIORNO SERENO NUMERO 68",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_069",
-    "text": "GIORNO SERENO NUMERO 69",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_070",
-    "text": "GIORNO SERENO NUMERO 70",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_071",
-    "text": "GIORNO SERENO NUMERO 71",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_072",
-    "text": "GIORNO SERENO NUMERO 72",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_073",
-    "text": "GIORNO SERENO NUMERO 73",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_074",
-    "text": "GIORNO SERENO NUMERO 74",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_075",
-    "text": "GIORNO SERENO NUMERO 75",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_076",
-    "text": "GIORNO SERENO NUMERO 76",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_077",
-    "text": "GIORNO SERENO NUMERO 77",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_078",
-    "text": "GIORNO SERENO NUMERO 78",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_079",
-    "text": "GIORNO SERENO NUMERO 79",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_080",
-    "text": "GIORNO SERENO NUMERO 80",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_081",
-    "text": "GIORNO SERENO NUMERO 81",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_082",
-    "text": "GIORNO SERENO NUMERO 82",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_083",
-    "text": "GIORNO SERENO NUMERO 83",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_084",
-    "text": "GIORNO SERENO NUMERO 84",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_085",
-    "text": "GIORNO SERENO NUMERO 85",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_086",
-    "text": "GIORNO SERENO NUMERO 86",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_087",
-    "text": "GIORNO SERENO NUMERO 87",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_088",
-    "text": "GIORNO SERENO NUMERO 88",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_089",
-    "text": "GIORNO SERENO NUMERO 89",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_090",
-    "text": "GIORNO SERENO NUMERO 90",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_091",
-    "text": "GIORNO SERENO NUMERO 91",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_092",
-    "text": "GIORNO SERENO NUMERO 92",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_093",
-    "text": "GIORNO SERENO NUMERO 93",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_094",
-    "text": "GIORNO SERENO NUMERO 94",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_095",
-    "text": "GIORNO SERENO NUMERO 95",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_096",
-    "text": "GIORNO SERENO NUMERO 96",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_097",
-    "text": "GIORNO SERENO NUMERO 97",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_098",
-    "text": "GIORNO SERENO NUMERO 98",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_099",
-    "text": "GIORNO SERENO NUMERO 99",
-    "hint": "Espressione semplice e positiva",
-    "language": "it",
-    "difficulty": "easy",
-    "category": "common"
-  },
-  {
-    "id": "it_e_100",
-    "text": "GIORNO SERENO NUMERO 100",
-    "hint": "Espressione semplice e positiva",
+    "text": "NOTTE CALMA",
+    "hint": "Assenza di rumore",
     "language": "it",
     "difficulty": "easy",
     "category": "common"
   },
   {
     "id": "it_m_001",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 1",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "CHI LA DURA LA VINCE",
+    "hint": "Proverbio sulla perseveranza",
     "language": "it",
     "difficulty": "medium",
     "category": "proverb"
   },
   {
     "id": "it_m_002",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 2",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "MEGLIO TARDI CHE MAI",
+    "hint": "Proverbio sul tempo",
     "language": "it",
     "difficulty": "medium",
     "category": "proverb"
   },
   {
     "id": "it_m_003",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 3",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "LA VITA E BELLA",
+    "hint": "Film italiano premio Oscar",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_004",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 4",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "VOLARE OH OH",
+    "hint": "Canzone italiana famosa",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "music"
   },
   {
     "id": "it_m_005",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 5",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "ACQUA IN BOCCA",
+    "hint": "Invito al silenzio",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "idiom"
   },
   {
     "id": "it_m_006",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 6",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "STRADA SENZA USCITA",
+    "hint": "Vicoli ciechi",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "common"
   },
   {
     "id": "it_m_007",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 7",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "LUCE IN FONDO AL TUNNEL",
+    "hint": "Segno di speranza",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "idiom"
   },
   {
     "id": "it_m_008",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 8",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL NOME DELLA ROSA",
+    "hint": "Romanzo di Eco",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_009",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 9",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "OCCHIO NON VEDE CUORE NON DUOLE",
+    "hint": "Proverbio famoso",
     "language": "it",
     "difficulty": "medium",
     "category": "proverb"
   },
   {
     "id": "it_m_010",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 10",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "CHI TROVA UN AMICO TROVA UN TESORO",
+    "hint": "Proverbio sull amicizia",
     "language": "it",
     "difficulty": "medium",
     "category": "proverb"
   },
   {
     "id": "it_m_011",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 11",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "EFFETTO DOMINO",
+    "hint": "Reazione a catena",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "science"
   },
   {
     "id": "it_m_012",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 12",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "PUNTO DI NON RITORNO",
+    "hint": "Momento decisivo",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "common"
   },
   {
     "id": "it_m_013",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 13",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "LA DOLCE VITA",
+    "hint": "Film di Fellini",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_014",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 14",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL CIELO IN UNA STANZA",
+    "hint": "Canzone italiana",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "music"
   },
   {
     "id": "it_m_015",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 15",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "AMARCORD DI FELLINI",
+    "hint": "Film italiano",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_016",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 16",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "SPIRITO DI SQUADRA",
+    "hint": "Collaborazione",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "common"
   },
   {
     "id": "it_m_017",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 17",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "NOTTE PRIMA DEGLI ESAMI",
+    "hint": "Canzone italiana",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "music"
   },
   {
     "id": "it_m_018",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 18",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL POSTO DELLE FRAGOLE",
+    "hint": "Film di Bergman",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_019",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 19",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL VECCHIO E IL MARE",
+    "hint": "Romanzo di Hemingway",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_020",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 20",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL GATTOPARDO DI LAMPEDUSA",
+    "hint": "Romanzo storico",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_021",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 21",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "SOGNO DI UNA NOTTE DI MEZZA ESTATE",
+    "hint": "Opera di Shakespeare",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_022",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 22",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL BUONO IL BRUTTO E IL CATTIVO",
+    "hint": "Film western italiano",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_023",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 23",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "LA COSCIENZA DI ZENO",
+    "hint": "Romanzo italiano",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_024",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 24",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "L OCCHIO DEL TIGRE",
+    "hint": "Canzone rock famosa",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "music"
   },
   {
     "id": "it_m_025",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 25",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL SIGNORE DEGLI ANELLI",
+    "hint": "Saga fantasy",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_026",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 26",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "UNA GIORNATA PARTICOLARE",
+    "hint": "Film italiano",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_027",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 27",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "C ERA UNA VOLTA IN AMERICA",
+    "hint": "Film di Leone",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_m_028",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 28",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL SILENZIO STAMPA",
+    "hint": "Ordine ai giornalisti",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "common"
   },
   {
     "id": "it_m_029",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 29",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "IL GRANDE GATSBY",
+    "hint": "Romanzo americano",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_m_030",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 30",
-    "hint": "Proverbio motivazionale esteso",
+    "text": "PER UN PUGNO DI DOLLARI",
+    "hint": "Film western",
     "language": "it",
     "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_031",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 31",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_032",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 32",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_033",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 33",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_034",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 34",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_035",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 35",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_036",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 36",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_037",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 37",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_038",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 38",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_039",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 39",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_040",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 40",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_041",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 41",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_042",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 42",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_043",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 43",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_044",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 44",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_045",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 45",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_046",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 46",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_047",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 47",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_048",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 48",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_049",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 49",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_050",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 50",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_051",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 51",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_052",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 52",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_053",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 53",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_054",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 54",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_055",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 55",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_056",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 56",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_057",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 57",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_058",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 58",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_059",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 59",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_060",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 60",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_061",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 61",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_062",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 62",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_063",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 63",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_064",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 64",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_065",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 65",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_066",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 66",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_067",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 67",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_068",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 68",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_069",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 69",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_070",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 70",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_071",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 71",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_072",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 72",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_073",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 73",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_074",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 74",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_075",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 75",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_076",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 76",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_077",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 77",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_078",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 78",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_079",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 79",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_080",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 80",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_081",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 81",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_082",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 82",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_083",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 83",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_084",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 84",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_085",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 85",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_086",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 86",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_087",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 87",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_088",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 88",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_089",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 89",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_090",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 90",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_091",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 91",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_092",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 92",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_093",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 93",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_094",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 94",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_095",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 95",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_096",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 96",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_097",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 97",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_098",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 98",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_099",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 99",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
-  },
-  {
-    "id": "it_m_100",
-    "text": "CHI CERCA TROVA SEMPRE RISPOSTA 100",
-    "hint": "Proverbio motivazionale esteso",
-    "language": "it",
-    "difficulty": "medium",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_h_001",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 1",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "CHI SEMINA VENTO RACCOGLIE TEMPESTA",
+    "hint": "Proverbio sulle conseguenze",
     "language": "it",
     "difficulty": "hard",
     "category": "proverb"
   },
   {
     "id": "it_h_002",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 2",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "NON TUTTI I MALI VENGONO PER NUOCERE",
+    "hint": "Proverbio positivo",
     "language": "it",
     "difficulty": "hard",
     "category": "proverb"
   },
   {
     "id": "it_h_003",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 3",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA VERITA STA NEL MEZZO",
+    "hint": "Espressione filosofica",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_004",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 4",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL MONDO COME VOLONTA E RAPPRESENTAZIONE",
+    "hint": "Opera di Schopenhauer",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_005",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 5",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA TEORIA DELLA RELATIVITA GENERALE",
+    "hint": "Concetto di Einstein",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "science"
   },
   {
     "id": "it_h_006",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 6",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL SILENZIO DEGLI INNOCENTI",
+    "hint": "Film thriller famoso",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_h_007",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 7",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "PER ASPERA AD ASTRA SEMPRE AVANTI",
+    "hint": "Motto latino esteso",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "latin"
   },
   {
     "id": "it_h_008",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 8",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "UNA QUESTIONE DI PRINCIPIO MORALE",
+    "hint": "Riguarda valori etici",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "abstract"
   },
   {
     "id": "it_h_009",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 9",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "CHI NON RISCHIA NON OTTIENE NULLA",
+    "hint": "Proverbio motivazionale",
     "language": "it",
     "difficulty": "hard",
     "category": "proverb"
   },
   {
     "id": "it_h_010",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 10",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL PIACERE DI ESSERE E DI APPARIRE",
+    "hint": "Tema esistenziale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_011",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 11",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL CURIOSO CASO DI BENJAMIN BUTTON",
+    "hint": "Film particolare",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_h_012",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 12",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL TRENO DEI DESIDERI NEI MIEI PENSIERI",
+    "hint": "Verso musicale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "music"
   },
   {
     "id": "it_h_013",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 13",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL CODICE DA VINCI DI DAN BROWN",
+    "hint": "Romanzo bestseller",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_h_014",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 14",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL NOME DELLA ROSA DI ECO",
+    "hint": "Romanzo medievale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_h_015",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 15",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "UNA NOTTE DA LEONI A LAS VEGAS",
+    "hint": "Film comico",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_h_016",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 16",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL SEGRETO DEI SUOI OCCHI ARGENTINO",
+    "hint": "Film premio Oscar",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_h_017",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 17",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA SOCIETA DELLO SPETTACOLO MODERNO",
+    "hint": "Concetto sociologico",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_018",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 18",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL PROCESSO DI FRANZ KAFKA",
+    "hint": "Romanzo inquietante",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_h_019",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 19",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL GRANDE DITTATORE DI CHAPLIN",
+    "hint": "Film satirico",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "movie"
   },
   {
     "id": "it_h_020",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 20",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA CASA DEGLI SPIRITI DI ALLENDE",
+    "hint": "Romanzo sudamericano",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_h_021",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 21",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA RIVOLUZIONE INDUSTRIALE EUROPEA",
+    "hint": "Evento storico",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "history"
   },
   {
     "id": "it_h_022",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 22",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA NASCITA DELLA TRAGEDIA DI NIETZSCHE",
+    "hint": "Opera filosofica",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_023",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 23",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL SIGNIFICATO DELLA VITA UMANA",
+    "hint": "Tema filosofico",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_024",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 24",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA DIVINA COMMEDIA DI DANTE ALIGHIERI",
+    "hint": "Opera medievale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_h_025",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 25",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL PENSIERO LATERALE DI DE BONO",
+    "hint": "Metodo creativo",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   },
   {
     "id": "it_h_026",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 26",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA STRADA MENO PERCORSA DA FROST",
+    "hint": "Poesia americana",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "literature"
   },
   {
     "id": "it_h_027",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 27",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL CORAGGIO DI CAMBIARE LE COSE",
+    "hint": "Tema motivazionale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "abstract"
   },
   {
     "id": "it_h_028",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 28",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA MEMORIA DEL PASSATO E DEL FUTURO",
+    "hint": "Tema esistenziale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "abstract"
   },
   {
     "id": "it_h_029",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 29",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "IL SENSO DELLA MISURA NELLA VITA",
+    "hint": "Riflessione morale",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
+    "category": "abstract"
   },
   {
     "id": "it_h_030",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 30",
-    "hint": "Proverbio complesso con molte parole",
+    "text": "LA PERCEZIONE DEL TEMPO E DELLO SPAZIO",
+    "hint": "Concetto filosofico",
     "language": "it",
     "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_031",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 31",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_032",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 32",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_033",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 33",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_034",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 34",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_035",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 35",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_036",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 36",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_037",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 37",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_038",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 38",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_039",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 39",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_040",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 40",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_041",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 41",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_042",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 42",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_043",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 43",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_044",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 44",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_045",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 45",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_046",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 46",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_047",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 47",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_048",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 48",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_049",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 49",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_050",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 50",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_051",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 51",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_052",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 52",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_053",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 53",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_054",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 54",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_055",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 55",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_056",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 56",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_057",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 57",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_058",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 58",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_059",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 59",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_060",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 60",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_061",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 61",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_062",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 62",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_063",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 63",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_064",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 64",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_065",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 65",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_066",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 66",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_067",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 67",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_068",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 68",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_069",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 69",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_070",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 70",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_071",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 71",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_072",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 72",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_073",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 73",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_074",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 74",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_075",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 75",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_076",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 76",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_077",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 77",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_078",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 78",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_079",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 79",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_080",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 80",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_081",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 81",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_082",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 82",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_083",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 83",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_084",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 84",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_085",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 85",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_086",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 86",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_087",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 87",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_088",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 88",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_089",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 89",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_090",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 90",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_091",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 91",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_092",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 92",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_093",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 93",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_094",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 94",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_095",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 95",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_096",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 96",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_097",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 97",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_098",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 98",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_099",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 99",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
-  },
-  {
-    "id": "it_h_100",
-    "text": "CHI NON RISCHIA NON OTTIENE MAI NULLA DI IMPORTANTE 100",
-    "hint": "Proverbio complesso con molte parole",
-    "language": "it",
-    "difficulty": "hard",
-    "category": "proverb"
+    "category": "philosophy"
   }
 ]
