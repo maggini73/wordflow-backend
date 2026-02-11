@@ -108,16 +108,20 @@ def save_game_result(
 
 @app.get("/games/mine")
 def get_my_games(
-    user_id: str = Depends(get_current_user_id()),
+    user_id: str = Depends(get_current_user_id),
     db: Session = Depends(get_db),
 ):
-    games = db.query(Game).filter(Game.user_id == user_id).order_by(Game.played_at.desc()).all()
-    
+    games = db.query(Game)\
+        .filter(Game.user_id == user_id)\
+        .order_by(Game.played_at.desc())\
+        .all()
+
     load_phrases()
+
     results = []
 
     for g in games:
-        phrase = next((p for p in PHRASES if p["id"] == g.phrase_id), None)
+        phrase = PHRASES.get(g.language, {}).get(g.phrase_id)
 
         results.append({
             "id": g.id,
