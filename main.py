@@ -84,10 +84,9 @@ def get_random_phrase(
 def save_game_result(
     data: GameResultCreate,
     db: Session = Depends(get_db),
+    user_id: str = Depends(get_current_user_id),
 ):
-    # TEMPORANEO: user_id finto
-    user_id = get_current_user_id
-
+    
     game = Game(
         user_id=user_id,
         phrase_id=data.phrase_id,
@@ -109,7 +108,7 @@ def save_game_result(
 
 @app.get("/games/mine")
 def get_my_games(
-    user_id: str = Depends(get_current_user_id),
+    user_id: str = Depends(get_current_user_id()),
     db: Session = Depends(get_db),
 ):
     games = db.query(Game).filter(Game.user_id == user_id).order_by(Game.played_at.desc()).all()
