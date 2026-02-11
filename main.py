@@ -1,12 +1,25 @@
+import os
 from fastapi import FastAPI, Query
 import json
 import random
-
+from firebase_admin import credentials, auth
 from fastapi import Depends
+import firebase_admin
 from sqlalchemy.orm import Session
 from schemas import GameResultCreate
+from database import SessionLocal, engine, Base
 from models import Game
-from database import SessionLocal
+
+
+if not firebase_admin._apps:
+    cred_json = os.environ.get("FIREBASE_SERVICE_ACCOUNT")
+    if not cred_json:
+        raise RuntimeError("Firebase service account not configured")
+
+    cred = credentials.Certificate(json.loads(cred_json))
+    firebase_admin.initialize_app(cred)
+
+
 
 def get_db():
     db = SessionLocal()
@@ -16,6 +29,8 @@ def get_db():
         db.close()
 
 app = FastAPI()
+
+Base.metadata.create_all(bind=engine)
 
 # carichiamo il json una sola volta
 with open("phrases.json", "r", encoding="utf-8") as f:
