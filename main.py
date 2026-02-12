@@ -48,6 +48,21 @@ def get_current_user_id(authorization: Optional[str] = Header(None)):
     except Exception:
         raise HTTPException(status_code=401, detail="Invalid or expired token")
 
+def get_optional_user_id(authorization: Optional[str] = Header(None)):
+    if authorization is None:
+        return None
+
+    if not authorization.startswith("Bearer "):
+        return None
+
+    token = authorization.split(" ")[1]
+
+    try:
+        decoded_token = auth.verify_id_token(token)
+        return decoded_token["uid"]
+    except Exception:
+        return None
+
 def get_db():
     db = SessionLocal()
     try:
@@ -63,7 +78,7 @@ Base.metadata.create_all(bind=engine)
 def get_random_phrase(
     language: str = Query(...),
     difficulty: str = Query(...),
-    user_id: str = Depends(get_current_user_id),
+    user_id: Optional[str] = Depends(get_optional_user_id),
     db: Session = Depends(get_db),
 ):
     filename = f"phrases_{language}.json"
@@ -81,20 +96,23 @@ def get_random_phrase(
     if not filtered:
         return {"error": "No phrases found"}
 
-    played_phrase_ids = {
-        row[0]
-        for row in db.query(Game.phrase_id)
-        .filter(
-            Game.user_id == user_id,
-            Game.language == language,
-            Game.difficulty == difficulty,
-        )
-        .distinct()
-        .all()
-    }
+    if user_id:
+        played_phrase_ids = {
+            row[0]
+            for row in db.query(Game.phrase_id)
+            .filter(
+                Game.user_id == user_id,
+                Game.language == language,
+                Game.difficulty == difficulty,
+            )
+            .distinct()
+            .all()
+        }
 
-    unplayed = [p for p in filtered if p["id"] not in played_phrase_ids]
-    pool = unplayed if unplayed else filtered
+        unplayed = [p for p in filtered if p["id"] not in played_phrase_ids]
+        pool = unplayed if unplayed else filtered
+    else:
+        pool = filtered
 
     return random.choice(pool)
 
