@@ -1,10 +1,10 @@
+import firebase_admin
 import os
 from fastapi import FastAPI, HTTPException, Header, Query
 import json
 import random
 from firebase_admin import credentials, auth
 from fastapi import Depends
-import firebase_admin
 from sqlalchemy.orm import Session
 from schemas import GameResultCreate
 from database import SessionLocal, engine, Base
@@ -169,3 +169,38 @@ def get_my_games(
         })
 
     return results
+
+from models import User
+from schemas import UserCreate
+
+@app.post("/users/me")
+def create_or_update_user(
+    data: UserCreate,
+    user_id: str = Depends(get_current_user_id),
+    db: Session = Depends(get_db),
+):
+
+    user = db.query(User).filter(User.id == user_id).first()
+
+    if user:
+        user.alias = data.alias
+    else:
+        user = User(id=user_id, alias=data.alias)
+        db.add(user)
+
+    db.commit()
+    db.refresh(user)
+
+    return {"id": user.id, "alias": user.alias}
+
+@app.get("/users/me")
+def get_my_profile(
+    user_id: str = Depends(get_current_user_id),
+    db: Session = Depends(get_db),
+):
+    user = db.query(User).filter(User.id == user_id).first()
+
+    if not user:
+        return {"alias": None}
+
+    return {"id": user.id, "alias": user.alias}
