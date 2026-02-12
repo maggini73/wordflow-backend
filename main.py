@@ -62,23 +62,41 @@ Base.metadata.create_all(bind=engine)
 @app.get("/phrase")
 def get_random_phrase(
     language: str = Query(...),
-  
-    difficulty: str = Query(...)
+    difficulty: str = Query(...),
+    user_id: str = Depends(get_current_user_id),
+    db: Session = Depends(get_db),
 ):
-    
-    # carichiamo il json una sola volta
-    with open("phrases_"+language+".json", "r", encoding="utf-8") as f:
-        PHRASES = json.load(f)
+    filename = f"phrases_{language}.json"
+    if not os.path.exists(filename):
+        raise HTTPException(status_code=404, detail="Language not supported")
+
+    with open(filename, "r", encoding="utf-8") as f:
+        phrases = json.load(f)
 
     filtered = [
-        p for p in PHRASES
+        p for p in phrases
         if p["language"] == language and p["difficulty"] == difficulty
     ]
 
     if not filtered:
         return {"error": "No phrases found"}
 
-    return random.choice(filtered)
+    played_phrase_ids = {
+        row[0]
+        for row in db.query(Game.phrase_id)
+        .filter(
+            Game.user_id == user_id,
+            Game.language == language,
+            Game.difficulty == difficulty,
+        )
+        .distinct()
+        .all()
+    }
+
+    unplayed = [p for p in filtered if p["id"] not in played_phrase_ids]
+    pool = unplayed if unplayed else filtered
+
+    return random.choice(pool)
 
 @app.post("/games")
 def save_game_result(
